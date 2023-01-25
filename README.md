@@ -1,0 +1,1 @@
+hellow writing something while studying git from w3schools
